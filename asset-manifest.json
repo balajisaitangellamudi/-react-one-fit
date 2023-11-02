@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/-react-one-fit/static/css/main.a222de6d.css",
+    "main.js": "/-react-one-fit/static/js/main.9a769245.js",
+    "static/js/787.2fed9365.chunk.js": "/-react-one-fit/static/js/787.2fed9365.chunk.js",
+    "static/media/getintouchimg.jpg": "/-react-one-fit/static/media/getintouchimg.19863a81fdfa4e1677f5.jpg",
+    "static/media/heading-img.jpg": "/-react-one-fit/static/media/heading-img.c6f956c02de3bca9f016.jpg",
+    "static/media/fit2.avif": "/-react-one-fit/static/media/fit2.5cc68eb9f5d847b44298.avif",
+    "static/media/fit6.avif": "/-react-one-fit/static/media/fit6.30e7547f4c67ba85ca8c.avif",
+    "static/media/fit4.webp": "/-react-one-fit/static/media/fit4.8c29d0c978fe9cb9bbaa.webp",
+    "static/media/fit5.avif": "/-react-one-fit/static/media/fit5.f93432ce792062d5bdb4.avif",
+    "static/media/fit1.avif": "/-react-one-fit/static/media/fit1.7d626ddaaf8f6ada6784.avif",
+    "static/media/fit3.avif": "/-react-one-fit/static/media/fit3.29bc60ced0870207886f.avif",
+    "index.html": "/-react-one-fit/index.html",
+    "main.a222de6d.css.map": "/-react-one-fit/static/css/main.a222de6d.css.map",
+    "main.9a769245.js.map": "/-react-one-fit/static/js/main.9a769245.js.map",
+    "787.2fed9365.chunk.js.map": "/-react-one-fit/static/js/787.2fed9365.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a222de6d.css",
+    "static/js/main.9a769245.js"
+  ]
+}
