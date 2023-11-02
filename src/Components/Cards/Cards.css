@@ -1,0 +1,11 @@
+.service-heading {
+  color: #f9ef23;
+  font-weight: 600;
+  font-size: 50px;
+  font-style: italic;
+  text-decoration: underline;
+}
+.card-image {
+  width: 575px; /* Set the width to 100% to ensure it fills the container */
+  height: 375px; /* Automatically adjust the height to maintain aspect ratio */
+}

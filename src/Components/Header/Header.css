@@ -1,0 +1,20 @@
+.text-color {
+  color: #f9ef23;
+}
+.title {
+  font-family: serif;
+  font-weight: 600;
+}
+
+.title_name {
+  font-size: 50px;
+  font-family: serif;
+  color: rgb(200, 219, 236);
+}
+
+.button {
+  background-color: #f9ef23;
+  border-radius: 10px;
+  width: 100px;
+  height: 30px;
+}
